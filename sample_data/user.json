@@ -1,0 +1,32 @@
+{
+    "070818606-8": {
+    "email":1,
+    "firebaseKey":"070818606-8",
+    "first_name":"Hugues",
+    "last_name":"Polack"
+ },
+ "889804034-2": {
+    "email":2,
+    "firebaseKey":"889804034-2",
+    "first_name":"Valene",
+    "last_name":"Shubotham"
+ },
+ "904776497-8": {
+    "email":3,
+    "firebaseKey":"904776497-8",
+    "first_name":"Siffre",
+    "last_name":"Mannix"
+},
+    "264926961-8": {
+    "email":4,
+    "firebaseKey":"264926961-8",
+    "first_name":"Terza",
+    "last_name":"Veschi"
+},
+    "961032450-9": {
+    "email":5,
+    "firebaseKey":"961032450-9",
+    "first_name":"Gabey",
+    "last_name":"McAmish"
+ }
+}

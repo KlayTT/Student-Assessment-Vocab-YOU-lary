@@ -13,8 +13,8 @@ const showVocabCards = (array) => {
           <h2 class="card-lang" style="bold">${item.language_Tech}</h2>
           <p>${item.definition}</p>
         <hr>
-          <i id="edit-book-btn--${item.firebaseKey}" class="fas fa-edit btn btn-info"></i>
-          <i id="delete-book--${item.firebaseKey}" class="btn btn-danger fas fa-trash-alt"></i>
+          <i id="edit-card-btn--${item.firebaseKey}" class="fas fa-edit btn btn-info"></i>
+          <i id="delete-card--${item.firebaseKey}" class="btn btn-danger fas fa-trash-alt"></i>
         </div>
     </div>`;
   });

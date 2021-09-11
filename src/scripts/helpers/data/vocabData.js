@@ -9,4 +9,16 @@ const getVocabCards = () => new Promise((resolve, reject) => {
     .catch((error) => reject(error));
 });
 
-export default getVocabCards;
+const createCard = (cardObj) => new Promise((resolve, reject) => {
+  axios.post(`${dbUrl}/vocabCards.json`, cardObj)
+    .then((response) => {
+      const body = { firebaseKey: response.data.name };
+
+      axios.patch(`${dbUrl}/vocabCards/${response.data.name}.json`, body)
+        .then(() => {
+          getVocabCards(cardObj).then(resolve);
+        });
+    }).catch((error) => reject(error));
+});
+
+export { getVocabCards, createCard };

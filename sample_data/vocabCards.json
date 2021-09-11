@@ -1,42 +1,37 @@
 {
-    "733822758-6": {
+    "-MjL1MEv0YL2Q9yTpGvK": {
       "title":"Redhold",
-      "firebaseKey":"733822758-6",
+      "firebaseKey":"-MjL1MEv0YL2Q9yTpGvK",
       "definition":"Audi",
       "language_Tech":"Legal",
-      "time_submitted":"8:53",
-      "user_id":1
+      "time_submitted":"8:53"
   },
-    "679832113-5": {
+    "-MjL1FD_bGpOdQUVEeGJ": {
       "title":"Bitchip",
-      "firebaseKey":"679832113-5",
+      "firebaseKey":"-MjL1FD_bGpOdQUVEeGJ",
       "definition":"Buick",
       "language_Tech":"Marketing",
-      "time_submitted":"7:59",
-      "user_id":2
+      "time_submitted":"7:59"
   },
-    "479086231-3": {
+    "-MjL0zI0tebucbnhJbnt": {
       "title":"Overhold",
-      "firebaseKey":"479086231-3",
+      "firebaseKey":"-MjL0zI0tebucbnhJbnt",
       "definition":"Chevrolet",
       "language_Tech":"Services",
-      "time_submitted":"9:31",
-      "user_id":3
+      "time_submitted":"9:31"
   },
-   "188821417-1": {
+   "-MjL1SsDL5W3YMDGop87": {
       "title":"Latlux",
-      "firebaseKey":"188821417-1",
+      "firebaseKey":"-MjL1SsDL5W3YMDGop87",
       "definition":"Ford",
       "language_Tech":"Accounting",
-      "time_submitted":"18:42",
-      "user_id":4
+      "time_submitted":"18:42"
   },
-   "740570034-9": {
+   "-MjL1XJPbf62QxUY0eKb": {
       "title":"Domainer",
-      "firebaseKey":"740570034-9",
+      "firebaseKey":"-MjL1XJPbf62QxUY0eKb",
       "definition":"Ford",
       "language_Tech":"Training",
-      "time_submitted":"6:23",
-      "user_id":5
+      "time_submitted":"6:23"
   }
 }

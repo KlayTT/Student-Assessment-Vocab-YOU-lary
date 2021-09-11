@@ -2,10 +2,9 @@ import clearDom from '../helpers/data/clearDom';
 
 const showVocabCards = (array) => {
   clearDom();
-  document.querySelector('#add-button').innerHTML = '<button class="btn btn-success btn-lg mb-4" id="add-book-btn">Add a Card!</button>';
+  document.querySelector('#add-button').innerHTML = '<button class="btn btn-success btn-lg mb-4" id="add-card-btn">Add A Card</button>';
 
   array.forEach((item) => {
-    console.warn(item);
     document.querySelector('#cards-display').innerHTML += `
     <div class="card">
         <div class="card-body" style="height: 180px;">

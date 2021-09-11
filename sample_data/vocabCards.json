@@ -1,0 +1,42 @@
+{
+    "733822758-6": {
+      "title":"Redhold",
+      "firebaseKey":"733822758-6",
+      "definition":"Audi",
+      "language_Tech":"Legal",
+      "time_submitted":"8:53",
+      "user_id":1
+  },
+    "679832113-5": {
+      "title":"Bitchip",
+      "firebaseKey":"679832113-5",
+      "definition":"Buick",
+      "language_Tech":"Marketing",
+      "time_submitted":"7:59",
+      "user_id":2
+  },
+    "479086231-3": {
+      "title":"Overhold",
+      "firebaseKey":"479086231-3",
+      "definition":"Chevrolet",
+      "language_Tech":"Services",
+      "time_submitted":"9:31",
+      "user_id":3
+  },
+   "188821417-1": {
+      "title":"Latlux",
+      "firebaseKey":"188821417-1",
+      "definition":"Ford",
+      "language_Tech":"Accounting",
+      "time_submitted":"18:42",
+      "user_id":4
+  },
+   "740570034-9": {
+      "title":"Domainer",
+      "firebaseKey":"740570034-9",
+      "definition":"Ford",
+      "language_Tech":"Training",
+      "time_submitted":"6:23",
+      "user_id":5
+  }
+}

@@ -21,4 +21,10 @@ const createCard = (cardObj) => new Promise((resolve, reject) => {
     }).catch((error) => reject(error));
 });
 
-export { getVocabCards, createCard };
+const getOneCard = (firebaseKey) => new Promise((resolve, reject) => {
+  axios.get(`${dbUrl}/vocabCards/${firebaseKey}.json`)
+    .then((response) => resolve(response.data))
+    .catch(reject);
+});
+
+export { getVocabCards, createCard, getOneCard };
